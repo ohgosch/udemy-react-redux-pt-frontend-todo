@@ -1,0 +1,17 @@
+.btn, input {
+    margin: 5px;
+}
+
+.done {
+    text-decoration: line-through;
+    color: #777;
+}
+
+.tableActions {
+    width: 120px;
+}
+
+.todoForm {
+    margin-bottom: 60px;
+    overflow: hidden;
+}
